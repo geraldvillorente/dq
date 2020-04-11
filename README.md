@@ -1,0 +1,2 @@
+# dq
+DNS query tool.
